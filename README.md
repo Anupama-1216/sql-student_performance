@@ -61,11 +61,11 @@ STEP 5️⃣ : Run Python Script
 
 
 
-⭐ Acknowledgements
+⭐ Acknowledgement : 
 This project was built as a learning exercise to strengthen database concepts, data analysis skills, and real-world integration between SQL and Python.
 
 
-👤 Author
+👤 Author :
 Anupama V
 Engineering Student (ISE) at Acharya Institute of Technology,Bengaluru
 Aspiring Software Engineer
